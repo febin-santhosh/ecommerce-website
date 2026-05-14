@@ -1,7 +1,6 @@
-# React E-Commerce Project — Beginner to Full App
+# React E-Commerce Project
 
-This repository contains the complete **React e-commerce application** built throughout the course.
-The project is designed to take you from **zero React knowledge** to building a **real, production-style application** using modern React patterns.
+This repository contains the complete **React e-commerce application**.
 
 ---
 
