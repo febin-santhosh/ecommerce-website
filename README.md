@@ -17,9 +17,6 @@ This project uses **CodeRabbit** to automatically review pull requests and catch
    - Leave inline comments
    - Highlight bugs, anti-patterns, and improvements
 
-> Code reviews are an essential part of real-world development.
-> CodeRabbit simulates having a senior developer reviewing your work.
-
 ---
 
 ## 1. Project Setup & Tooling
