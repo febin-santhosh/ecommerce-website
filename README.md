@@ -25,10 +25,6 @@ This project uses **CodeRabbit** to automatically review pull requests and catch
 
 ---
 
-## 📚 Topics Covered (With Code)
-
----
-
 ## 1. Project Setup & Tooling
 
 We initialize the project using **Vite**, which provides a fast development environment.
