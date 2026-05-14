@@ -1,7 +1,5 @@
 # React E-Commerce Project
 
-This repository contains the complete **React e-commerce application**.
-
 ---
 
 ## 🤖 CodeRabbit Integration (Required)
